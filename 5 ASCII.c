@@ -4,6 +4,6 @@ int main() {
     char a;
     printf("Enter the character:");
     scanf("%c",&a);
-    printf("The ASCII value %c  is %d",a);
+    printf("The ASCII value %c is %d",a,a);
     return 0;
 }
