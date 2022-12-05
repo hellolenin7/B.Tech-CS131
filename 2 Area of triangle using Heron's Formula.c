@@ -10,5 +10,5 @@ int main()
     area=sqrt(s*(s-a)*(s-b)*(s-c));
     printf("The area of the triangle is %.3f square unit\n",area);
     return 0;
-};
+}
 
